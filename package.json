@@ -6,9 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "wdio": "wdio run ./wdio.conf.js"
+ "scripts": {
+  "test": "wdio run ./wdio.conf.js",
+  "wdio": "wdio run ./wdio.conf.js"
   },
   "keywords": [],
   "author": "",
