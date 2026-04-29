@@ -72,3 +72,9 @@ npx wdio run wdio.conf.js --spec ./test/specs/github.signup.e2e.js
 ## 📌 Notes
 - Tests are written using Page Object Model for better maintainability.
 - Selectors are based on stable attributes where possible.
+
+## 👩‍💻 Author
+
+Julia Manoilo  
+QA Automation Engineer (Junior)  
+Open to opportunities
